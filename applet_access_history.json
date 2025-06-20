@@ -1,0 +1,14 @@
+{
+  "applets": [{
+    "lastAccessTime": "2025-06-20T06:46:05.677247Z",
+    "firstAccessTime": "2025-06-20T06:23:59.074326Z",
+    "source": {
+      "drive": {
+        "resourceId": "17oPYuQeCaUUBdy9jklTfXTPXhz_Z42E0",
+        "revisionId": "0B2YKrSk7rw2fR1psL1RJVER4QXViTkkxemUreGtYY2dLV1cwPQ"
+      }
+    },
+    "name": "Cinematic AI Video Editor",
+    "description": "An AI-powered app to transform images and video clips into cinematic edits. Features an AI assistant for style guidance, reference-based editing, text overlays, subtitles, and simulated Adobe Premiere Pro project export."
+  }]
+}
